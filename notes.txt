@@ -1,0 +1,4 @@
+NPM SERVER COMMAND
+
+npm run server 
+npm run dev
